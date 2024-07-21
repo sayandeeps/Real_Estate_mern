@@ -55,8 +55,6 @@ npm run lint: Runs ESLint to lint the project files.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-<br></br>
-<br></br>
 
 ## License
 
