@@ -21,12 +21,14 @@ Install dependencies:
 
 Make sure you have Node.js installed. Then run:
 
-# Copy code
+sh
+Copy code
 npm install
 Usage
 Start the development server:
 
-# Copy code
+sh
+Copy code
 npm run dev
 This will start the Vite development server and open the app in your default browser.
 
@@ -34,16 +36,23 @@ Build the project:
 
 To create an optimized production build, run:
 
-# Copy code
+sh
+Copy code
 npm run build
 Preview the production build:
 
+You can preview the production build locally using:
 
-# License
+sh
+Copy code
+npm run serve
+Scripts
+npm run dev: Starts the development server.
+npm run build: Builds the app for production.
+npm run serve: Serves the production build locally.
+npm run lint: Runs ESLint to lint the project files.
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
-
-
-
-
