@@ -1,4 +1,4 @@
-# Real Estate App**
+# Real Estate App
 
 This is a Real Estate application built using React and Vite. The app allows users to view and search for properties, providing an interactive and user-friendly interface.
 
