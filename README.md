@@ -4,11 +4,13 @@ This is a Real Estate application built using React and Vite. The app allows use
 
 **## Table of Contents**
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
+- [Real Estate App](#real-estate-app)
+  - [Install dependencies:](#install-dependencies)
+  - [Usage](#usage)
+  - [Scripts](#scripts)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Group Members](#group-members)
 
 **## Installation**
 
@@ -59,3 +61,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Group Members
+- Debdutta Burman
+- Sayandeep Sharma
