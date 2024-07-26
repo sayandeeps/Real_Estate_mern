@@ -40,6 +40,10 @@ app.use((err, req, res, next) => {
   res.status(500).send("Internal Server Error");
 });
 
+app.get("/", (req, res) => {
+  res.send("Real Estate Backend");
+});
+
 app.listen(8800, () => {
   console.log("Backend Server is running on port 8800");
 });
